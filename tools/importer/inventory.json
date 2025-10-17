@@ -1,0 +1,174 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-00-5c1e475aeea8f0e0a60e76ccc6fd74f33c156520",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-header[1]"
+        }
+      ],
+      "styles": {
+        "height": 116
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-10-296cbfe63e14a324ee0bdd34b9ce89e7a344fe41",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-footer[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-00-5c1e475aeea8f0e0a60e76ccc6fd74f33c156520",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns block",
+      "target": "Columns block (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-01-0bba318d64ac1a61cac89c2c46d1eae42714a9a6",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-home[1]/main[1]/div[1]/app-latest-news[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-03-415db372fa23c84d8c41622bb00fec2fc73df84c",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-home[1]/main[1]/div[1]/app-latest-videos[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 4,
+      "source": "Hero",
+      "target": "Hero (hero4)",
+      "key": "hero4",
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-04-168d4ec7a133fbab0c45e47b340c516914c1e09d",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-home[1]/main[1]/div[1]/app-subscribe[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns block",
+      "target": "Columns block (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-09-ebbd9c7edb786b9d95978d1baead7efaa5adef36",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-sponsors[1]/div[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns block",
+      "target": "Columns block (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.majorleaguecricket.com/",
+          "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+          "uuid": "06aa9207-10-296cbfe63e14a324ee0bdd34b9ce89e7a344fe41",
+          "xpath": "/html[1]/body[1]/app-root[1]/app-footer[1]",
+          "section": "section-2"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.majorleaguecricket.com/",
+      "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+      "uuid": "06aa9207-02-3b897e88b2ccdc7f973026a1755f67347ee99fa0",
+      "xpath": "/html[1]/body[1]/app-root[1]/app-home[1]/main[1]/div[1]/app-latest-videos[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.majorleaguecricket.com/",
+      "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+      "uuid": "06aa9207-05-c04aa0bc5359a263291cf87642937e04ecdf0111",
+      "xpath": "/html[1]/body[1]/app-root[1]/app-sponsors[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.majorleaguecricket.com/",
+      "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+      "uuid": "06aa9207-06-84c8aa1867fef13854656340f17ca620842e8737",
+      "xpath": "/html[1]/body[1]/app-root[1]/app-sponsors[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.majorleaguecricket.com/",
+      "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+      "uuid": "06aa9207-07-b862265a268cb0fe71063af7ace507c0ec6ee014",
+      "xpath": "/html[1]/body[1]/app-root[1]/app-sponsors[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.majorleaguecricket.com/",
+      "urlHash": "06aa9207423d7350f24144c75066a73d674c388e",
+      "uuid": "06aa9207-08-d2bf0eb835d15b7005b292dd2925586e03fb141c",
+      "xpath": "/html[1]/body[1]/app-root[1]/app-sponsors[1]/div[1]/div[1]/div[4]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) url(\"https://www.majorleaguecricket.com/subscribe.c4613ba2b72dbf72.png\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    }
+  ]
+}
