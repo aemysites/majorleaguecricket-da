@@ -1,0 +1,30 @@
+{
+  "originUrl": "https://www.majorleaguecricket.com",
+  "aborted": false,
+  "lastCrawled": "https://www.majorleaguecricket.com/",
+  "urls": [
+    {
+      "url": "https://www.majorleaguecricket.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "06aa9207423d7350f24144c75066a73d674c388e"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}
